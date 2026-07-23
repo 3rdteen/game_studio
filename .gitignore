@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Project Data (Don't upload generated games)
+projects/
+authorized_users.json
+
+# Python caches
+__pycache__/
+*.pyc
